@@ -241,6 +241,26 @@
 
 	// Follower
     {
+        "name": "Cathedrals",
+        "type": "Follower",
+        "uniques": ["May buy [Cathedral] buildings with [Faith] [in cities following this religion]","Only available <after adopting [Religious Orders]>"]
+    },
+    {
+        "name": "Monasteries",
+        "type": "Follower",
+        "uniques": ["May buy [Monastery] buildings for [150] [Faith] [in cities following this religion]","Only available <after adopting [Religious Orders]>"]
+    },
+    {
+        "name": "Mosques",
+        "type": "Follower",
+        "uniques": ["May buy [Mosque] buildings with [Faith] [in cities following this religion]","Only available <after adopting [Religious Orders]>"]
+    },
+    {
+        "name": "Pagodas",
+        "type": "Follower",
+        "uniques": ["May buy [Pagoda] buildings with [Faith] [in cities following this religion]","Only available <after adopting [Religious Orders]>"]
+    },
+    {
         "name": "Divine inspiration",
         "type": "Follower",
         "uniques": ["[+1 Faith, +1 Culture] from every [Wonder]","[+1 Faith, +1 Culture] from every [Natural Wonder]","[+2 Science] from every [National Wonder]"]
