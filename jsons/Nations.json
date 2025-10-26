@@ -259,9 +259,13 @@
         "innerColor": [18,84,30],
 
 		"favoredReligion": "Islam",
-		"uniqueName": "Barbary Corsairs",
-		"uniques": ["[-66]% maintenance costs <for [Water] units>","[-5 Faith] [in holy cities]",
-			"When defeating a [{Barbarian} {Water}] unit, earn [25] Gold and recruit it <with [50]% chance>"],
+		"uniqueName": "Barbary Corsairs of The Great Turkish Bombardment",
+		"uniqueText": "Siege units are built 50% faster, they are 50% stronger against Cities and they gain XP 50% faster\nAnnexed cities build Courthouse in half the usual time and receive +1 additional population when completed\nGain +2 [Culture] from every [Courthouse]\n-66% maintenance costs for [Water] units\n-5 Faith in holy cities\nWhen defeating a [{Barbarian} {Water}] unit, earn [25] Gold and recruit it with [50]% chance>",
+		"uniques": [
+			"[+50]% Production when constructing [Siege] units [in all cities] <during the [Renaissance era]>", "[+50]% Strength <for [Siege] units> <vs cities> <during the [Renaissance era]>", "[+50]% XP gained from combat <for [Siege] units> <during the [Renaissance era]>", "[+100]% Production when constructing [Courthouse] buildings [in annexed cities]", 
+			"[+2 Culture] from every [Courthouse]","[-66]% maintenance costs <for [Water] units>","[-5 Faith] [in holy cities]",
+			"When defeating a [{Barbarian} {Water}] unit, earn [25] Gold and recruit it <with [50]% chance>"
+		],
 		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyarbakır","Izmir","Kayseri","Malatya",
 			"Mersin","Antalya","Zonguldak","Denizli","Ordu","Muğla","Eskişehir","Inebolu","Sinop","Adana","Artvin",
 			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarahisar",
