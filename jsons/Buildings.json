@@ -1,4 +1,16 @@
 [
+        {
+		"name": "Industrial Facility",
+		"replaces": "Factory",
+		"uniqueTo": "Germany",
+		"cost": 187,
+		"production": 5,
+		"specialistSlots": {"Engineer": 2},
+		"requiredBuilding": "Workshop",
+		"maintenance": 0,
+		"hurryCostModifier": 0,
+		"requiredTech": "Industrialization"
+	},
 	{
         "name": "Candi",
         "replaces": "Garden",
