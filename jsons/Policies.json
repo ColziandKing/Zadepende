@@ -1769,7 +1769,7 @@
         {
             "name": "Autarky",
             "uniques": [
-                "Quantity of strategic resources produced by the empire +[50]%",
+                "+[50]% [Strategic] resource production",
                 "[+2 Food] [in all cities connected to capital]",
 			"Comment [Recommended for Autocracy & Order civs]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
