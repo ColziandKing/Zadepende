@@ -1750,7 +1750,7 @@
 				"name": "Diplomatic Missions",
 				"uniques": [
                     "[1] free [Diplomat] units appear", "[1] free [Diplomat] units appear <upon entering a new era>",
-                "May buy [Diplomat] units for [725] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([275]) <starting from the [Renaissance era]>",
+                "May buy [Diplomat] units for [1275] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([725]) <starting from the [Industrial era]>",
 			"Comment [Recommended for Freedom civs]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
