@@ -1749,6 +1749,7 @@
 			{
 				"name": "Diplomatic Missions",
 				"uniques": [
+                    "[1] free [Diplomat] units appear", "[1] free [Diplomat] units appear <upon entering a new era>",
                 "May buy [Diplomat] units for [500] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Medieval era]>",
 			"Comment [Recommended for Freedom civs]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
@@ -1769,7 +1770,7 @@
         {
             "name": "Autarky",
             "uniques": [
-                "+[50]% [Strategic] resource production",
+                    "[+100]% [Strategic] resource production",
                 "[+2 Food] [in all cities connected to capital]",
 			"Comment [Recommended for Autocracy & Order civs]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
