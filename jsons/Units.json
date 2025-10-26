@@ -1,5 +1,20 @@
 
 [
+    {
+        "name": "Seaxman",
+        "replaces": "Longswordsman",
+        "uniqueTo": "Holy Roman Empire",
+        "unitType": "Sword",
+        "movement": 2,
+        "strength": 22,
+        "cost": 115,
+        "requiredTech": "Chivalry",
+        "promotions": ["Amphibious","Cover I"],
+        "upgradesTo": "Musketman",
+        "obsoleteTech": "Gunpowder",
+        "requiredResource": "Iron",
+        "attackSound": "metalhit"
+    },
 	{
 		"name": "Foreign Legion",
 		"unitType": "Gunpowder",
