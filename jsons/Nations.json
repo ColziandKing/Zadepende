@@ -24,7 +24,7 @@
 
 	    "favoredReligion": "Protestantism",
         "uniqueName": "Furor Teutonicus to Iron and Blood",
-		"uniqueText": "+10% [Production] when constructing Military buildings and units (double bonus when at war)\n-10% [Gold] cost of upgrading for Military units\nMilitary buildings yield an additional +1 [Science]\nWhen conquering an encampment, earn [25] Gold and recruit a Barbarian unit with [67]% chance, -25% maintenance costs for [Land] units",
+		"uniqueText": "+10% [Production] when constructing Military buildings and units (when at war)\n-10% [Gold] cost of upgrading for Military units\nMilitary buildings yield an additional +1 [Science]\nWhen conquering an encampment, earn [25] Gold and recruit a Barbarian unit with [67]% chance, -25% maintenance costs for [Land] units",
 		"uniques": [
 			"[+10]% Production when constructing [Military] units [in all cities] <when at war>", "[+10]% Production when constructing [Barracks] buildings [in all cities] <when at war>", 
 			"[+10]% Production when constructing [Armory] buildings [in all cities] <when at war>", "[+10]% Production when constructing [Military Academy] buildings [in all cities] <when at war>", 
