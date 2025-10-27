@@ -199,20 +199,17 @@
     },
     {
         "name": "Hippodrome",
-        "replaces": "Amphitheater",
+        "replaces": "Circus",
         "uniqueTo": "Byzantium",
-        "cost": 95,
-        "culture": 2,
-        "faith": 2,
-        "happiness": 1,
-        "requiredBuilding": "Monument",
+        "culture": 3,
+        "happiness": 4,
+		"requiredNearbyImprovedResources": ["Ivory","Furs","Horses"],
         "maintenance": 2,
         "hurryCostModifier": 25,
         "uniques": [
             "Destroyed when the city is captured",
-            "Comment [Has 1 Great Work of Writing Slot]"
         ],
-        "requiredTech": "Drama and Poetry"
+        "requiredTech": "Trapping"
     },
     {
         "name": "Plaza de Toros",
