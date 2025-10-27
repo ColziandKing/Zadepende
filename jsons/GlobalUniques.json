@@ -5,7 +5,6 @@
 		// Great Merchant Trade Mission Calculations
 		// https://civilization.fandom.com/wiki/Great_Merchant_(Civ5)#Formula
 	  "Adopt [Volunteer Army] <for [City-States] Civilizations> <upon entering the [Industrial era]> <hidden from users>",
-                    "Gain a free [Governor's Mansion] [in this city] <upon founding a city> <on foreign continents>",
 			"Gain a free [Granary] [in all cities] <upon entering the [Ancient era]> <hidden from users>",
 			"Gain a free [Market] [in all cities] <upon entering the [Classical era]> <hidden from users>",
 			"Gain a free [Castle] [in all cities] <during the [Medieval era]> <hidden from users>",
