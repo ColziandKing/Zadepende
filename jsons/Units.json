@@ -230,28 +230,6 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Comanche Rider", // Named "Comanche Riders" in Civ5. Renamed in English.properties
-		"unitType": "Mounted",
-		"replaces": "Cavalry",
-		"uniqueTo": "Comanche",
-		"movement": 4, // Without Full Moon Striker
-		"strength": 34,
-		"cost": 200,
-		"requiredTech": "Military Science",
-		"obsoleteTech": "Combustion",
-		"upgradesTo": "Landship",
-		"promotions": [
-			"Full Moon Striker"
-		],
-		"uniques": [
-			"Can move after attacking",
-			"[-33]% Strength <when attacking> <vs cities>",
-			"No defensive terrain bonus",
-			"Consumes [1] [Horses]"
-		],
-		"attackSound": "horse"
-	},
-	{
 		"name": "Diplomat",
 		"unitType": "Civilian",
 		"uniques": ["May enter foreign tiles without open borders", "May Paradrop to [Land] tiles up to [10] tiles away", "Can undertake a trade mission with City-State, giving a large sum of gold and [90] Influence", "Unbuildable", "Uncapturable"
