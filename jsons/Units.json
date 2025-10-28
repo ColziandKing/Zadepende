@@ -3,7 +3,7 @@
     {
         "name": "Seaxman",
         "replaces": "Longswordsman",
-        "uniqueTo": "Holy Roman Empire",
+        "uniqueTo": "The Franks",
         "unitType": "Sword",
         "movement": 2,
         "strength": 22,
