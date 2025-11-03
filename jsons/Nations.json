@@ -202,7 +202,7 @@
 		"outerColor": [37, 51, 77],
 		"innerColor": [255, 66, 48],
 		"uniqueName": "Southeast Asian Influence",
-		"uniques": ["[+2 Faith] from all [Wat] buildings","[+1 Food] from all [Monument] buildings","[+2 Culture] from all [University] buildings","[+1 Food] from all [Temple] buildings"],
+		"uniques": ["[+2 Faith] from all [Wat] buildings <hidden from users>","[+1 Food] from all [Monument] buildings","[+2 Culture] from all [University] buildings","[+1 Food] from all [Temple] buildings"],
 		"cities": ["Bangkok",
 "Chiang Mai",
 "Ayutthaya",
